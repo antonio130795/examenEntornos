@@ -34,7 +34,7 @@ public class examen {
 		case 2:
 			//pedimos datos del trapecio
 			System.out.println("opcion 2");
-			/*
+			
 			System.out.println("Introduce la base del trapecio");
 			Scanner sc3 = new Scanner(System.in);
 			int baseTrapecio = sc3.nextInt();
@@ -51,7 +51,7 @@ public class examen {
 			}else {
 				System.out.println("Obligatoriamente una base tiene que ser mayor que la otra");
 			}
-			*/
+			
 			break;
 		case 3:
 			//pedimos los datos del rectangulo
