@@ -56,7 +56,7 @@ public class examen {
 		case 3:
 			//pedimos los datos del rectangulo
 			System.out.println("opcion 3");
-			/*
+			
 			System.out.println("Introduce la base del rectangulo");
 			Scanner sc5 = new Scanner(System.in);
 			int baseRectangulo = sc5.nextInt();
@@ -71,7 +71,7 @@ public class examen {
 			}else {
 				System.out.println(modulos.rectangulo(baseRectangulo, alturaRectangulo));
 			}
-			*/
+			
 			break;
 		case 4:
 			System.out.println("opcion 4");
